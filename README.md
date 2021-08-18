@@ -31,6 +31,11 @@ npm install
 cd token-blockchain--ethereum
 npm install
 ```
+* Change Back to Root Directory
+```bash
+cd ..
+```
+
 * Initiate the NodeJs server
 ```bash
 npm run dev
