@@ -37,7 +37,4 @@ npm run dev
 ```
 * Access the [Application](http://localhost:3000)
 
-### Technology Stack
-* ReactJs
-* Solidity
-* Ethereum Smart Contract
+
