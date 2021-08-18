@@ -7,3 +7,4 @@ Making transaction histories more transparent and secure through the use of bloc
 
 # Installation
   ## Install Git
+  Follow instructions from Git Website
