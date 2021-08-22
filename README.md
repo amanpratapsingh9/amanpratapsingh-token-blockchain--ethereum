@@ -4,6 +4,7 @@
 
 ![Pic 1](https://user-images.githubusercontent.com/72128002/130360395-c2fcd625-f980-4af6-ab60-6445e013bb8c.jpg)
 
+![Pic 2](https://user-images.githubusercontent.com/72128002/130361219-5e2a3e3d-2b6c-48a6-b32a-e52521559c73.jpg)
 
 
 # Purpose
