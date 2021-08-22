@@ -6,6 +6,8 @@
 
 ![Pic 2](https://user-images.githubusercontent.com/72128002/130361219-5e2a3e3d-2b6c-48a6-b32a-e52521559c73.jpg)
 
+![Pic 3](https://user-images.githubusercontent.com/72128002/130361363-7ca6bbeb-50c7-449b-82cc-4b9a7c2f9eb0.jpg)
+
 
 # Purpose
 Making transaction histories more transparent and secure through the use of blockchain technology. Because Blockchain is a type of distributed ledger, all network participants share the same documentation as opposed to individual copies.
